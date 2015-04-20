@@ -1,0 +1,18 @@
+.order-body { 
+    width: 70%; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+.jumbotron {
+    background: url("http://images.fineartamerica.com/images-medium-large/assortment-of-melons-david-munns.jpg");
+    background-size: 100% auto;
+    background-position: center center;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+}
